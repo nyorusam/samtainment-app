@@ -1,2 +1,2 @@
-# sam_entertainment-
+# sam_entertainment_app
 movie-app 
